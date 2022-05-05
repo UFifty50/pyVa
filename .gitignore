@@ -6,4 +6,4 @@
 build
 bin
 
-src\main\java\xyz\ufifty50sh\java\PyVaMainOld.java
+./src/main/java/xyz/ufifty50sh/java/PyVaMainOld.java
