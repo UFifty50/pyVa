@@ -1,0 +1,9 @@
+# Ignore project-specific directories
+.gradle
+.vscode
+
+# Ignore Gradle build output directory
+build
+bin
+
+src\main\java\xyz\ufifty50sh\java\PyVaMainOld.java
